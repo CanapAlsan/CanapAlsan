@@ -18,7 +18,7 @@ Diplômé de la formation intensive O’clock (Titre Pro en cours), je suis prê
 
 ➡️ *Voir le README du projet pour les détails*
 
-Lors de mon projet de fin d'études, j'ai endossé le rôle de **tech lead backend** tout en contribuant au **développement full stack**. Voici un aperçu de mes missions clés :
+Lors de mon projet de fin d'études, j'ai endossé le rôle de **product owner & tech lead backend** tout en contribuant au **développement full stack**. Voici un aperçu de mes missions clés :
 
 ### 🧠 Architecture & Conception
 - Conception du **MLD** (Modèle logique de données) et mise en place via **PostgreSQL**.
