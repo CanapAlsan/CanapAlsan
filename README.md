@@ -1,4 +1,4 @@
-# Alsan CANAP – Développeur d'Applications Full Stack 🚀
+# Canap ALSAN – Développeur d'Applications Full Stack 🚀
 
 ## HEY ! 👨‍💻
 
@@ -93,10 +93,6 @@ Tu veux échanger sur :
 - L’organisation d’un projet full stack avec React et Node ?
 - Des opportunités en **alternance** pour un développeur sérieux, motivé et qui ne jure que par les `div` bien centrés ?<br><br><br>
 
----
-
-## 🌐 Socials:<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CanapAlsan)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alsan.canap@gmail.com)
 
@@ -113,15 +109,10 @@ Tu veux échanger sur :
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CanapAlsan&icon=0&color=0" alt="visit count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=CanapAlsan&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-## ✍️ Citation de développeur aléatoire
 
 > “First, solve the problem. Then, write the code.” – John Johnson
